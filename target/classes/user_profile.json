@@ -1,0 +1,10 @@
+{
+    "name": "Ni",
+    "sex": "Female",
+    "age": 30,
+    "height": 175,
+    "weight": 70,
+    "activityLevel": 5,
+    "calorieCalculationMethod": "Harris-Benedict",
+    "lastUpdated": "2025-04-07"
+  }

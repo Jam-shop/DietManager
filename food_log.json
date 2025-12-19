@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2025-04-07",
+        "servings": 3,
+        "foodId": "6b3cf5fd-a8c7-41d9-8f9e-89d0295db2e4",
+        "mealType": "Snack",
+        "id": "951f89a4-0a53-4c92-8341-df959dcc74d7",
+        "time": "17:47:24.790456"
+    },
+    {
+        "date": "2025-04-07",
+        "servings": 1,
+        "foodId": "638aab2d-9d32-4e7f-8494-782b0c91efcd",
+        "mealType": "Dinner",
+        "id": "353cb6c0-0acd-42a3-a370-eb06498dd274",
+        "time": "19:30"
+    }
+]

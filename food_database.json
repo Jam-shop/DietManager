@@ -1,0 +1,174 @@
+[
+    {
+        "isComposite": false,
+        "keywords": [
+            "fruit",
+            "fresh"
+        ],
+        "name": "Apple",
+        "caloriesPerServing": 52,
+        "id": "b9a36588-d1ff-4020-8cf4-a9d2c1918456"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "fruit",
+            "fresh"
+        ],
+        "name": "Banana",
+        "caloriesPerServing": 89,
+        "id": "7d4c403b-ffb3-49f1-83f1-5369a2e08ed4"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "meat",
+            "protein"
+        ],
+        "name": "Chicken Breast",
+        "caloriesPerServing": 165,
+        "id": "638aab2d-9d32-4e7f-8494-782b0c91efcd"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "grain",
+            "carb"
+        ],
+        "name": "White Bread",
+        "caloriesPerServing": 75,
+        "id": "5e1ca070-477d-4800-a2b0-b39e30bc866d"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "spread",
+            "protein"
+        ],
+        "name": "Peanut Butter",
+        "caloriesPerServing": 188,
+        "id": "04ae26e9-9e0e-4a8f-b1f5-0b988004f4c1"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "spread",
+            "sweet"
+        ],
+        "name": "Jelly",
+        "caloriesPerServing": 56,
+        "id": "1c8adbf0-1a3d-4d1b-bdfa-06e04a38b5d2"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "vegetable",
+            "fresh"
+        ],
+        "name": "Lettuce",
+        "caloriesPerServing": 5,
+        "id": "65aa62dd-9cc6-458d-a3db-c402732453b5"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "vegetable",
+            "fresh"
+        ],
+        "name": "Tomato",
+        "caloriesPerServing": 22,
+        "id": "9fc83932-743c-4781-a72e-a9f716c20ec3"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "dairy",
+            "protein"
+        ],
+        "name": "Cheddar Cheese",
+        "caloriesPerServing": 113,
+        "id": "865a0850-d656-44f3-bd59-5986f3097332"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "dairy",
+            "drink"
+        ],
+        "name": "Milk",
+        "caloriesPerServing": 122,
+        "id": "6b3cf5fd-a8c7-41d9-8f9e-89d0295db2e4"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "grain",
+            "carb"
+        ],
+        "name": "Pasta",
+        "caloriesPerServing": 158,
+        "id": "9451574f-e6bd-4498-8de3-cfcb59030f41"
+    },
+    {
+        "isComposite": false,
+        "keywords": [
+            "grain",
+            "carb"
+        ],
+        "name": "Rice",
+        "caloriesPerServing": 130,
+        "id": "4d536299-585f-43e6-840f-5d59ca6c97e8"
+    },
+    {
+        "components": [
+            {
+                "servings": 2,
+                "foodId": "5e1ca070-477d-4800-a2b0-b39e30bc866d"
+            },
+            {
+                "servings": 1,
+                "foodId": "04ae26e9-9e0e-4a8f-b1f5-0b988004f4c1"
+            },
+            {
+                "servings": 1,
+                "foodId": "1c8adbf0-1a3d-4d1b-bdfa-06e04a38b5d2"
+            }
+        ],
+        "isComposite": true,
+        "keywords": [
+            "sandwich",
+            "lunch"
+        ],
+        "name": "PB&J Sandwich",
+        "caloriesPerServing": 394,
+        "id": "1c77a1b5-57a2-4227-8d98-b666e15a70f7"
+    },
+    {
+        "components": [
+            {
+                "servings": 2,
+                "foodId": "5e1ca070-477d-4800-a2b0-b39e30bc866d"
+            },
+            {
+                "servings": 1,
+                "foodId": "865a0850-d656-44f3-bd59-5986f3097332"
+            },
+            {
+                "servings": 0.5,
+                "foodId": "65aa62dd-9cc6-458d-a3db-c402732453b5"
+            },
+            {
+                "servings": 0.5,
+                "foodId": "9fc83932-743c-4781-a72e-a9f716c20ec3"
+            }
+        ],
+        "isComposite": true,
+        "keywords": [
+            "sandwich",
+            "lunch"
+        ],
+        "name": "Cheese Sandwich",
+        "caloriesPerServing": 276.5,
+        "id": "9a47fc43-b421-4467-98b1-f0e978fe60c4"
+    }
+]

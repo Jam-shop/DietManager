@@ -1,0 +1,12 @@
+backend/models/Food.class
+backend/services/FoodLogService$Command.class
+backend/models/CompositeFood.class
+backend/models/FoodComponent.class
+backend/services/FoodDatabaseService.class
+backend/services/FoodLogService$CommandType.class
+frontend/DietManagerCLI.class
+backend/models/FoodLogEntry.class
+backend/models/BasicFood.class
+backend/services/FoodLogService$1.class
+backend/services/FoodLogService.class
+backend/models/UserProfile.class
